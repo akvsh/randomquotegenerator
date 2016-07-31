@@ -1,0 +1,25 @@
+body {
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #fff;
+}
+
+.quote-card {
+    padding: 50px;
+    margin: 200px;
+    border-style: solid;
+    background-color: #42dca3;
+    color: black;
+    border-color: gray;
+}
+
+.quote {
+    font-size: 45px;
+    width: 100%;
+    text-align: center;
+}
+
+.quote-source {
+    font-size: 25px;
+    width: 100%;
+    text-align: right;
+}
