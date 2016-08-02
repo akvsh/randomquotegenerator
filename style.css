@@ -10,6 +10,13 @@ button {
     color: inherit;
 }
 
+a {
+    margin-top: 30px;
+    padding: 5px;
+    text-decoration: none;
+    color: inherit;
+}
+
 .quote-card {
     position: absolute;
     margin: auto;
@@ -38,22 +45,23 @@ button {
 .quote-source {
     font-size: 25px;
     width: 100%;
-    text-align: right;
+    text-align: center;
 }
 
 .social-media-sharing {
-    font-size: 20px;
-    padding: 2%;
-    margin: 10px;
-    background-color: cadetblue;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 1%;
 }
 
 #new-quote {
+    font: inherit;
     font-size: 30px;
     width: 100%;
     margin-top: 50px;
     padding: 25px;
     border-radius: 5px;
+    border-color: #7d4627;
+    border-style: solid;
     background-color: #edd9c0;
 }
 
